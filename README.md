@@ -1,2 +1,2 @@
 # C-language
-Programs that i have coded in C language
+Programs that I have coded in C language
