@@ -13,7 +13,7 @@ void Exit();
 
 
 
-int main(void)
+main(void)
 {
   printf("Welcome to our bank's ATM machine!\n");
   printf("----------------------------------\n");
@@ -32,7 +32,6 @@ int main(void)
   	  case(4):Exit(); exit(0);
     } 
   }
-  return 0; 
 }
 
 int PIN_function()
